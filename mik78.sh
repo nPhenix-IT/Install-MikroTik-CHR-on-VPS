@@ -11,7 +11,7 @@
 # quick usage:
 # change password: NEW_PASSWORD='S3cure!Pass' ./chr-install.sh
 # change identity: IDENTITY='chr-cloud' ./chr-install.sh
-# change version of the RouterOS: ROS_VER='7.22.1' ./chr-install.sh
+# change version of the RouterOS: ROS_VER='7.15.3' ./chr-install.sh
 # by default installs latest stable version
 #############################################
 
